@@ -1,5 +1,5 @@
-book_filename: "bookdown-demo"
+book_filename: "Clustering"
 language:
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Bab "
 delete_merged_file: true
