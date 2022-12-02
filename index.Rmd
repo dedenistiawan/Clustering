@@ -21,7 +21,7 @@ geometry:
   - lmargin=3.0cm
   - rmargin=2.0cm
 github-repo: dedenistiawan/clustering
-description: "Analsisi Cluster dengan Menggunakan Pemrograman R"
+description: "Analsis Cluster dengan Menggunakan Pemrograman R"
 ---
 
 # Pengantar {-}
